@@ -1,0 +1,17 @@
+D:\PROJELER\CalorieTrackingApp.BLL\bin\Debug\net6.0\CalorieTrackingApp.BLL.deps.json
+D:\PROJELER\CalorieTrackingApp.BLL\bin\Debug\net6.0\CalorieTrackingApp.BLL.dll
+D:\PROJELER\CalorieTrackingApp.BLL\bin\Debug\net6.0\CalorieTrackingApp.BLL.pdb
+D:\PROJELER\CalorieTrackingApp.BLL\bin\Debug\net6.0\CalorieTrackingApp.DAL.dll
+D:\PROJELER\CalorieTrackingApp.BLL\bin\Debug\net6.0\CalorieTrackingApp.DATA.dll
+D:\PROJELER\CalorieTrackingApp.BLL\bin\Debug\net6.0\CalorieTrackingApp.DAL.pdb
+D:\PROJELER\CalorieTrackingApp.BLL\bin\Debug\net6.0\CalorieTrackingApp.DATA.pdb
+D:\PROJELER\CalorieTrackingApp.BLL\obj\Debug\net6.0\CalorieTrackingApp.BLL.csproj.AssemblyReference.cache
+D:\PROJELER\CalorieTrackingApp.BLL\obj\Debug\net6.0\CalorieTrackingApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\CalorieTrackingApp.BLL\obj\Debug\net6.0\CalorieTrackingApp.BLL.AssemblyInfoInputs.cache
+D:\PROJELER\CalorieTrackingApp.BLL\obj\Debug\net6.0\CalorieTrackingApp.BLL.AssemblyInfo.cs
+D:\PROJELER\CalorieTrackingApp.BLL\obj\Debug\net6.0\CalorieTrackingApp.BLL.csproj.CoreCompileInputs.cache
+D:\PROJELER\CalorieTrackingApp.BLL\obj\Debug\net6.0\CalorieTrackingApp.BLL.csproj.CopyComplete
+D:\PROJELER\CalorieTrackingApp.BLL\obj\Debug\net6.0\CalorieTrackingApp.BLL.dll
+D:\PROJELER\CalorieTrackingApp.BLL\obj\Debug\net6.0\refint\CalorieTrackingApp.BLL.dll
+D:\PROJELER\CalorieTrackingApp.BLL\obj\Debug\net6.0\CalorieTrackingApp.BLL.pdb
+D:\PROJELER\CalorieTrackingApp.BLL\obj\Debug\net6.0\ref\CalorieTrackingApp.BLL.dll

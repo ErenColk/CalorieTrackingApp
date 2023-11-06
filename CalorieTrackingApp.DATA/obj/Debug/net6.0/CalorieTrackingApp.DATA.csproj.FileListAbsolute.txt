@@ -1,0 +1,11 @@
+D:\PROJELER\CalorieTrackingApp.DATA\bin\Debug\net6.0\CalorieTrackingApp.DATA.deps.json
+D:\PROJELER\CalorieTrackingApp.DATA\bin\Debug\net6.0\CalorieTrackingApp.DATA.dll
+D:\PROJELER\CalorieTrackingApp.DATA\bin\Debug\net6.0\CalorieTrackingApp.DATA.pdb
+D:\PROJELER\CalorieTrackingApp.DATA\obj\Debug\net6.0\CalorieTrackingApp.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\CalorieTrackingApp.DATA\obj\Debug\net6.0\CalorieTrackingApp.DATA.AssemblyInfoInputs.cache
+D:\PROJELER\CalorieTrackingApp.DATA\obj\Debug\net6.0\CalorieTrackingApp.DATA.AssemblyInfo.cs
+D:\PROJELER\CalorieTrackingApp.DATA\obj\Debug\net6.0\CalorieTrackingApp.DATA.csproj.CoreCompileInputs.cache
+D:\PROJELER\CalorieTrackingApp.DATA\obj\Debug\net6.0\CalorieTrackingApp.DATA.dll
+D:\PROJELER\CalorieTrackingApp.DATA\obj\Debug\net6.0\refint\CalorieTrackingApp.DATA.dll
+D:\PROJELER\CalorieTrackingApp.DATA\obj\Debug\net6.0\CalorieTrackingApp.DATA.pdb
+D:\PROJELER\CalorieTrackingApp.DATA\obj\Debug\net6.0\ref\CalorieTrackingApp.DATA.dll
