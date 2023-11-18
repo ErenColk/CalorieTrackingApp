@@ -4,6 +4,7 @@ CalorieTrackingApp, .NET Core ve C# ile geliştirilmiş bir masaüstü uygulamas
 
 # SİTEYE AİT FOTOĞRAFLAR
 
+1-Uygulama  ekteki giriş animasyonu ile birlikte açılıyor.
 
 ![Interface](https://github.com/ErenColk/CalorieTrackingApp/assets/137501644/d294e3ec-6440-4a7b-9773-2507545c8634)
 
